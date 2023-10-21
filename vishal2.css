@@ -1,0 +1,43 @@
+.logo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+    outline: 2px solid white;
+}
+body {
+    background-color: black;
+}
+button {
+    color: rgb(246, 245, 247);
+    font-weight: bold;
+    background: linear-gradient(to right, rgb(101, 203, 216), rgb(19, 3, 243));
+    border-radius: 10px;
+    font-size: 2rem;
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    border: none;
+}
+button:hover {
+    color:black;
+    background: white;
+}
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav {
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 3mm;
+    display: flex;
+}
+h2 {
+    color: aliceblue;
+}
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.3rem;
+}
+p {
+    color: aliceblue;
+}
